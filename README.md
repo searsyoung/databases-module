@@ -1,5 +1,4 @@
-###Exercises
-Create a new repository on GitHub to hold your assignments for the Databases module. Create a new branch for Checkpoint 1. Submit your answers.
+##Submission
 
 > What data types do each of these values represent?
 - "A Clockwork Orange"
