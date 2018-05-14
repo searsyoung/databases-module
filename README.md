@@ -2,14 +2,19 @@
 
 > What data types do each of these values represent?
 - "A Clockwork Orange"
+
 A. string
 - 42
+
 A. integer
 - 09/02/1945
+
 A. date
 - 98.7
+
 A. float
 - $15.99
+
 A. decimal
 
 > Explain when a database would be used. Explain when a text file would be used.
