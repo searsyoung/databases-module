@@ -12,6 +12,7 @@ Create a new repository on GitHub to hold your assignments for the Databases mod
 
 A. 
 
+
 > Describe one difference between SQL and other programming languages.
 
 A.
